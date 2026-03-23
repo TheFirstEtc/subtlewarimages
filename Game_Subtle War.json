@@ -16,7 +16,8 @@
       "type",
       "cost",
       "name",
-      "set"
+      "set",
+      "text"
     ],
     "formats": [
       {
